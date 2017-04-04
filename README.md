@@ -4,7 +4,7 @@ Website where users can see your favorite movies and watch the trailers.
 
 ## Quick Start
 
-Clone the repo: git clone https://github.com/xxxxxxxx
+Clone the repo: git clone https://github.com/wo984c/movie-trailer.git
 
 ## Software Requirements
 
